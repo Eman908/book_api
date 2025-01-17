@@ -1,4 +1,4 @@
-import 'package:book_store/home/data/models/book_card_model.dart';
+import 'package:book_store/features/home/data/models/book_card_model.dart';
 
 sealed class BookState {}
 

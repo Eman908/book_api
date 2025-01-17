@@ -1,4 +1,4 @@
-import 'package:book_store/home/data/models/image_model.dart';
+import 'package:book_store/features/home/data/models/image_model.dart';
 
 class VolumModel {
   final String title;

@@ -1,8 +1,8 @@
-import 'package:book_store/home/cubit/book_cubit.dart';
-import 'package:book_store/home/cubit/book_state.dart';
-import 'package:book_store/home/view/widgets/app_bar.dart';
-import 'package:book_store/home/view/widgets/bottom_bar.dart';
-import 'package:book_store/home/view/widgets/success_widget.dart';
+import 'package:book_store/features/home/cubit/book_cubit.dart';
+import 'package:book_store/features/home/cubit/book_state.dart';
+import 'package:book_store/features/home/view/widgets/app_bar.dart';
+import 'package:book_store/features/home/view/widgets/bottom_bar.dart';
+import 'package:book_store/features/home/view/widgets/success_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

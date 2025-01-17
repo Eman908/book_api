@@ -1,4 +1,4 @@
-import 'package:book_store/home/data/models/volum_model.dart';
+import 'package:book_store/features/home/data/models/volum_model.dart';
 
 class BookCardModel {
   final VolumModel volumModel;

@@ -23,6 +23,7 @@ AppBar homeAppBar() {
         ),
       ],
     ),
+    automaticallyImplyLeading: false,
     backgroundColor: Colors.transparent,
     centerTitle: true,
     toolbarHeight: 78,
